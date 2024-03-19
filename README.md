@@ -1,2 +1,2 @@
-# Mop | Melaans Overhauled Progression
+# Mop | Overhauled Progression
 Melaans Overhauled Progression
