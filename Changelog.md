@@ -1,5 +1,5 @@
 # Mop | Overhauled Progression
-```Version: 1.0```
+```ALPHA | Version: 1.0```
 
 <hr>
 
