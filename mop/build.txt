@@ -1,0 +1,8 @@
+displayName = Mellaans Overhauled Progression
+author = MrMellaan
+version = 0.1
+homepage = https://github.com/MrMelaan/mop/tree/main
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
